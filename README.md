@@ -10,3 +10,6 @@ O Objetivo é desmontrar um HTML bem estruturado, um CSS responsívo e funções
 - Estrutura semântica do HTML5(`<header>`, `<section>`,`<footer>','<article>'
 - Layout de CSS organizado por classes.
 - Alteração dinâmica de estilo e conteúdo com JavaScript
+
+##Acesso ao Site 
+- Link de acesso ao site(site hospedado pelo GitHub Pages :  https://marcelohenrique19.github.io/Landing-Page---Barbie-2023/
