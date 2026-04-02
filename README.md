@@ -9,4 +9,4 @@ O Objetivo é desmontrar um HTML bem estruturado, um CSS responsívo e funções
 - Botões interativos(ver mais e ver menos) para expandir informações.
 - Estrutura semântica do HTML5(`<header>`, `<section>`,`<footer>','<article>'
 - Layout de CSS organizado por classes.
-- - Alteração dinâmica de estilo e conteúdo com JavaScript
+- Alteração dinâmica de estilo e conteúdo com JavaScript
